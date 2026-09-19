@@ -1,0 +1,22 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "reanash.gd-gpt",
+	"name": "GD GPT",
+	"version": "v1.0.0-alpha.1",
+	"developer": "reanash",
+	"description": "AI level builder for Geometry Dash. Themes, structures, gameplay, deco, triggers and more.",
+	"repository": "https://github.com/reanash0120-bot/GD-GPT-",
+	"tags": ["editor", "utility", "enhancement"],
+	"dependencies": {
+		"geode.node-ids": {
+			"version": ">=1.0.0",
+			"importance": "required"
+		}
+	}
+}
